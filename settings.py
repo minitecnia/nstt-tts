@@ -1,4 +1,4 @@
-# Ultralytics YOLO 🚀, AGPL-3.0 license
+# Settings file
 # Francisco Jose Ochando
 
 from pathlib import Path
