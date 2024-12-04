@@ -26,12 +26,6 @@ YOUTUBE = 'Youtube'
 # Images config
 IMAGES_DIR = ROOT / 'images'
 
-# Webcam
-WEBCAM_PATH = 0
-
-# Videos config
-VIDEO_DIR = ROOT / 'videos'
-
 # Path models
 path_models = 'models/'
 
