@@ -6,6 +6,7 @@ Realiza transcripciones de voz a texto en entornos ruidosos y también de texto 
 
 # Before RUN
 Download models from Vosk
+
 Vosk models: https://alphacephei.com/vosk/models
 
 # Run
