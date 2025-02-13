@@ -4,7 +4,11 @@ Does speech to text transcription in noisy environments and also text to speech
 
 Realiza transcripciones de voz a texto en entornos ruidosos y también de texto a voz
 
-# Before RUN
+# Dependencies
+
+STT use FFMPEG. Download from: https://www.ffmpeg.org/download.html
+
+# Before run
 Download models from Vosk
 
 Vosk models: https://alphacephei.com/vosk/models
